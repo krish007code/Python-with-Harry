@@ -1,0 +1,15 @@
+s ={}
+name1 = input("Enter name : ")
+value1 = input("fav lang : ")
+s.update({name1 : value1})
+name2 = input("Enter name : ")
+value2 = input("fav lang : ")
+s.update({name2 : value2})
+name3 = input("Enter name : ")
+value3 = input("fav lang : ")
+s.update({name3 : value3})
+name4 = input("Enter name : ")
+value4 = input("fav lang : ")
+s.update({name4 : value4})
+
+print(s)
