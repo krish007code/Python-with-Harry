@@ -1,1 +1,1 @@
-print("om")
+print("om", "ishan", "pranav")
